@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertEquals;
 
-public class HerokuAppTest {
+public class HerokuAppAddRemoveTest {
 
     @Test
     public void addRemoveElements() {
